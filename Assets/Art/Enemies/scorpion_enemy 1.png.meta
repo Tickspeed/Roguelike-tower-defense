@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ccc8b2430c2061d48b936df8c6d88bbc
+guid: 357e915486d2e363185b206690b725df
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7891296970424504899
-    second: trangle_tower_0
+      213: -7033656939008644932
+    second: scorpion_enemy 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: trangle_tower_0
+      name: scorpion_enemy 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 80
-        height: 189
+        width: 121
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 342d443e8c4838d60800000000000000
-      internalID: 7891296970424504899
+      spriteID: cb8ad66a74e636e90800000000000000
+      internalID: -7033656939008644932
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      trangle_tower_0: 7891296970424504899
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
